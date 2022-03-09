@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>HD Terrain Texture Pack</name>
+  <author>Delsin53</author>
+   <supportedVersions>
+        <li>1.1</li>
+        <li>1.0</li>
+    </supportedVersions>
+   <packageId>delsin53752.hdhterrainhtexturehpack</packageId>
+  <description>Changes most of the games terrain to HD realistic textures. 
+  The textures are much more detailed but *technically* lower-res than before so 
+  you should notice a substantial increase in your FPS; nearly doubling it especially 
+  with larger colonies.</description>
+</ModMetaData>
